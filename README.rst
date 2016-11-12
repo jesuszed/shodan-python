@@ -1,4 +1,4 @@
-shodan: The official Python library for accessing Shodan
+shodan: Libreria oficial de Python para acceder a Shodan
 ========================================================
 
 Shodan is a search engine for Internet-connected devices. Google lets you search for websites,
